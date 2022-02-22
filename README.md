@@ -114,7 +114,9 @@ Methods with two type parameter(GValue, String) and fixes
 [Permutation](https://groophy-inc.github.io/GMath/permutation)
         
 [Combination](https://groophy-inc.github.io/GMath/combination)
-        
+
+[**First Sample(find Area and Diameter of circle)**](https://github.com/Groophy-Inc/Groophy.Math/blob/main/Samples/Area%20and%20Diameter%20Formula%20in%20circle.cs)
+  
 ---
 </details>
 
