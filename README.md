@@ -4,9 +4,12 @@
 
 [Source Code](https://github.com/Groophy-Inc/Groophy.Math/blob/main/Groophy.Math/Math.cs)
 
----
-### **It's still under development!**
----
+<details>
+  <summary>OVERVIEW</summary>
+  
+  
+    It's still under development!
+
 
 # Usage
 
@@ -25,6 +28,8 @@
 [Exponent|Power|Caret](https://groophy-inc.github.io/GMath/Exponent)
 
 [Sigma](https://groophy-inc.github.io/GMath/sigma)
+        
+And more...
 
 ## Types
 ```c#
@@ -66,5 +71,51 @@ It applies the formula "formula" until the number "n" is increased one by one un
 > = 18
 
 ![sig](https://user-images.githubusercontent.com/77299279/154857845-ee625e49-7bd1-48bf-bf55-aada986ec2bb.PNG)
+  
+</details>
+
+<details>
+  <summary>1.0.0</summary>
+Template,
+ 
+Methods with single type parameter(GValue)
+        
+[Addaddition](https://groophy-inc.github.io/GMath/addaddition)
+
+[Subtraction](https://groophy-inc.github.io/GMath/subtraction)
+
+[Multiplication](https://groophy-inc.github.io/GMath/multiplication)
+
+[Division](https://groophy-inc.github.io/GMath/division)
+
+[Modulo](https://groophy-inc.github.io/GMath/modulo)
+
+[Period](https://groophy-inc.github.io/GMath/period)
+
+[Exponent|Power|Caret](https://groophy-inc.github.io/GMath/Exponent)
+
+[Sigma](https://groophy-inc.github.io/GMath/sigma)
+        
+---
+</details>
+        
+<details>
+  <summary>1.0.1</summary>
+Methods with two type parameter(GValue, String) and fixes
+
+[Root](https://groophy-inc.github.io/GMath/root)
+
+[per(%)](https://groophy-inc.github.io/GMath/per)
+
+[Absolute](https://groophy-inc.github.io/GMath/abs)
+
+[Factorial](https://groophy-inc.github.io/GMath/factorial)
+
+[Permutation](https://groophy-inc.github.io/GMath/permutation)
+        
+[Combination](https://groophy-inc.github.io/GMath/combination)
+        
+---
+</details>
 
 ~Groophy Lifefor
